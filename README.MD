@@ -13,13 +13,15 @@
 ---
 ### Hobbies
 
-I like to play video games:
+    I like to play video games:
 
-- League of legend
+        - League of legend
 
-- Total war warhammer
+        - Total war warhammer
 
-- Satisfactory and Factorio
+        - Satisfactory
+
+        - petits jeux 2D
 
 Mais j'aime aussi voyager, visiter une capitale le temps d'un week-end ou parcourir le monde seul ou avec des amis.
 
