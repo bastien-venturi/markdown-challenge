@@ -7,8 +7,7 @@
 ---
 
 
- | Birthday:   | 30/06 |
-| ------------- | ------------- |
+| Birthday:   | 30/06 |
 | Favorit color:  | Noir  |
 | Pinneapple on pizza:  |  yes[x] no[] |
 
