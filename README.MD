@@ -23,7 +23,7 @@
 
         - petits jeux 2D
 
-Mais j'aime aussi voyager, visiter une capitale le temps d'un week-end ou parcourir le monde seul ou avec des amis.
+    Mais j'aime aussi voyager, visiter une capitale le temps d'un week-end ou parcourir le monde seul ou avec des amis.
 
 ### You can always count on me when...
 
