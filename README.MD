@@ -6,9 +6,9 @@
 ## "La patience est d'or pour faire le tour du monde"
 ---
 
-| Birthday | Favorit color | Pinneapple on pizza |
+| Birthday | Favorit color | Favorit food | Pinneapple on pizza |
 | --- | --- | --- |
-| 30/06 | Noir | yes[x] no[] |
+| 30/06 | Noir | Ramen | yes[x] no[] |
 
 ---
 ### Hobbies
