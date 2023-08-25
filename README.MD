@@ -14,7 +14,6 @@
 ### Hobbies
 
     Video games:
-
         - League of legend
         - Total war warhammer
         - Satisfactory
