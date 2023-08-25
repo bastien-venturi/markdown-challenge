@@ -5,32 +5,34 @@
 
 ## "La patience est d'or pour faire le tour du monde"
 ---
-Birthday: 30/06
 
-Favorit color: Black
 
-Pinneapple on pizza: [x] yes [ ] no
+ | Birthday:   | 30/06 |
+| ------------- | ------------- |
+| Favorit color:  | Noir  |
+| Pinneapple on pizza:  |  yes[x] no[] |
 
 ---
 ### Hobbies
 
 I like to play video games:
 
--League of legend
+- League of legend
 
--Total war warhammer
+- Total war warhammer
 
--Satisfactory and Factorio
+- Satisfactory and Factorio
 
-But I also like to travel, visiting a capital city for a weekend or wandering the globe on my own or with  a friends.
+Mais j'aime aussi voyager, visiter une capitale le temps d'un week-end ou parcourir le monde seul ou avec des amis.
 
 ### You can always count on me when...
 
-If you've had enough and don't feel well, I'll try to make you smile again.
+Si vous en avez assez et que vous ne vous sentez pas bien, j'essaierai de vous redonner le sourire!
 
 ### Funny Story
 
-I was in Brussels with a friend and we drank absinthe all evening with strangers, and woke up in the morning in a car at the North Sea with no memory of how we got there.
+J'ai été à Bruxelles avec un ami, nous avons bu de l'absinthe toute la soirée avec des inconnus et nous nous sommes réveillés le matin dans une voiture au bord de la mer du Nord, sans aucun souvenir de la façon dont nous étions arrivés là.
+***Toujours faire attention à la fée verte!***
 
 ### Aventure never waits you
 
