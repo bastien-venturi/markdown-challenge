@@ -21,7 +21,7 @@
     Voyager:
         - City trip un week-end
         - Voyage au bout du monde seul 
-          ou acompagné
+          ou accompagné
     Lecture fantastique:
         -Tolkien
         -L'épée de vérité
