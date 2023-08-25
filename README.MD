@@ -9,5 +9,5 @@ Birthday: 30/06
 
 Favorit color: Black
 
-
+Pinneapple on pizza: [] yes [] ~~no~~
 
