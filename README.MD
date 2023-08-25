@@ -34,8 +34,6 @@ I was in Brussels with a friend and we drank absinthe all evening with strangers
 
 ### Aventure never waits you
 
-<< previous || YOUR NAME || next >>
-
 [<< previous](https://github.com/AlexandreVDW/markdown-challenge) || Venturi || [next >>](https://github.com/Taweria/markdown-challenge)
 
 
