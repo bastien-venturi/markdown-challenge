@@ -7,7 +7,7 @@
 ---
 
 | Birthday | Favorit color | Favorit food | Pinneapple on pizza |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 30/06 | Noir | Ramen | yes[x] no[] |
 
 ---
