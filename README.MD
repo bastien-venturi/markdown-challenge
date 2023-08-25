@@ -13,7 +13,7 @@
 ---
 ### Hobbies
 
-    I like to play video games:
+    Video games:
 
         - League of legend
 
@@ -23,8 +23,17 @@
 
         - petits jeux 2D
 
-Mais j'aime aussi voyager, visiter une capitale le temps d'un week-end ou parcourir le monde seul ou avec des amis.
+    Voyager:
+        - City trip un week-end
+        - Voyage au bout du monde seul 
+          ou acompagné
+    Lecture fantastique:
+        -Tolkien
+        -L'épée de vérité
+        -Belgarade
+    Les animés et mangas (ONE PIECE!)
 
+![luffy](https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif)
 ### You can always count on me when...
 
 Si vous en avez assez et que vous ne vous sentez pas bien, j'essaierai de vous redonner le sourire!
