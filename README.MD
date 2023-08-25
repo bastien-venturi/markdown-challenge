@@ -38,7 +38,8 @@ Si vous en avez assez et que vous ne vous sentez pas bien, j'essaierai de vous r
 J'ai été à Bruxelles avec un ami, nous avons bu de l'absinthe toute la soirée avec des inconnus et nous nous sommes réveillés le matin dans une voiture au bord de la mer du Nord, sans aucun souvenir de la façon dont nous étions arrivés là.
 ***Toujours faire attention à la fée verte!***
 
-### Quand rien n'est prévu, tout est possible
+## TL;DR
+### ***Quand rien n'est prévu, tout est possible***
 
 [<< previous](https://github.com/v-alex-dev/personalIntro) || Venturi || [next >>](https://github.com/Taweria/markdown-challenge)
 
